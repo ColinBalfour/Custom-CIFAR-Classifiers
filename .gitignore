@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+*Checkpoints
+*CIFAR10/Train/*
+*CIFAR10/Test/*
+*Logs
+*data
